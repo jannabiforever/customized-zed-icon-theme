@@ -12,7 +12,15 @@
       },
       "file_suffixes": {
         "as": "actionscript",
+        "surql": "surrealdb",
         "swf": "flash"
+      },
+      "file_stems": {
+        "docker-compose": "docker",
+        "Dockerfile": "docker",
+        "Dockerfile.dev": "docker",
+        "Dockerfile.prod": "docker",
+        "Dockerfile.test": "docker"
       },
       "file_icons": {
         "actionscript": { "path": "./icons/actionscript.svg" },
@@ -66,6 +74,7 @@
         "scala": { "path": "./icons/scala.svg" },
         "settings": { "path": "./icons/settings.svg" },
         "storage": { "path": "./icons/database.svg" },
+        "surrealdb": { "path": "./icons/surrealdb.svg" },
         "svelte": { "path": "./icons/svelte.svg" },
         "swift": { "path": "./icons/swift.svg" },
         "tcl": { "path": "./icons/tcl.svg" },
