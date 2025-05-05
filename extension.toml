@@ -1,0 +1,10 @@
+id = "my-own-zed-icon"
+name = "my own zed icon theme"
+version = "0.0.1"
+schema_version = 1
+authors = [
+    "Zed Industries <support@zed.dev>",
+    "Jungin Yu <jungini1226@gmail.com>",
+]
+description = "customed icon, forked from material-icon-theme"
+repository = "https://github.com/"
