@@ -1,10 +1,15 @@
-# Zed Icon Theme For My Personal Use
+# My Custom Icon Theme
 
-Based on the Material Icon Theme.
-Added some more icons for clearer usage.
+This is a customized version of the original [Original Icon Theme](https://github.com/zed-extensions/material-icon-theme),
+which is licensed under the [Apache License 2.0](./LICENSE).
 
-# Material Icon Theme
+## 🎨 What's customized
 
-Material Design icons for [Zed](https://zed.dev/).
+- Added icons for `.svelte` files
 
-The icons are sourced from the [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme) for VS Code and are distributed under their original [LICENSE](./icons/LICENSE).
+## 🔖 License & Credits
+
+This project is based on work from [Original Icon Theme](https://github.com/zed-extensions/material-icon-theme).
+Original copyright and license information is retained.
+
+See [LICENSE](./LICENSE) for details.
