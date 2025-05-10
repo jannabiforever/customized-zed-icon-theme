@@ -12,6 +12,7 @@
       },
       "file_suffixes": {
         "as": "actionscript",
+        "editorconfig": "editorconfig",
         "surql": "surrealdb",
         "swf": "flash"
       },
@@ -37,6 +38,7 @@
         "diff": { "path": "./icons/diff.svg" },
         "docker": { "path": "./icons/docker.svg" },
         "document": { "path": "./icons/document.svg" },
+        "editorconfig": { "path": "./icons/editorconfig.svg" },
         "elixir": { "path": "./icons/elixir.svg" },
         "elm": { "path": "./icons/elm.svg" },
         "erlang": { "path": "./icons/erlang.svg" },
