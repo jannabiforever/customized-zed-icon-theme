@@ -5,10 +5,11 @@ which is licensed under the [Apache License 2.0](./LICENSE).
 
 ## 🎨 What's customized
 
-- Added icons for `.svelte` files
+- Added icons for `.svelte` files.
 - Added icons for `.surql` files, which are used for SurrealDB queries.
 - Added support for Dockerfile linking.
-- Added icon for `.editorconfig` files
+- Added icon for `.editorconfig` files.
+- Added icon for `.markdown`, `.svx` files.
 
 ## 🔖 License & Credits
 

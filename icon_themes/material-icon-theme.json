@@ -12,6 +12,8 @@
       },
       "file_suffixes": {
         "as": "actionscript",
+        "svx": "markdown",
+        "markdown": "markdown",
         "editorconfig": "editorconfig",
         "surql": "surrealdb",
         "swf": "flash"
@@ -88,7 +90,8 @@
         "vcs": { "path": "./icons/git.svg" },
         "video": { "path": "./icons/video.svg" },
         "vue": { "path": "./icons/vue.svg" },
-        "zig": { "path": "./icons/zig.svg" }
+        "zig": { "path": "./icons/zig.svg" },
+        "markdown": { "path": "./icons/markdown.svg" }
       }
     }
   ]
